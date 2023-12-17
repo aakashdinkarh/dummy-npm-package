@@ -8,7 +8,7 @@
   "license": "ISC",
   "scripts": {
     "clean": "node scripts/clean-dist.js",
-    "build-dev": "webpack --mode development",
+    "build-dev": "npm run clean && webpack --mode development",
     "build-prod": "webpack --mode production",
     "start": "npx react-scripts start"
   },
