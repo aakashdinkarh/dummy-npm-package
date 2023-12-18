@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "description": "Dummy Package",
   "main": "dist/index.js",
+  "module": "dist/index.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "scripts": {
     "clean": "node scripts/clean-dist.js",
     "build-dev": "npm run clean && webpack --mode development",
-    "build-prod": "webpack --mode production",
+    "build-prod": "npm run clean && webpack --mode production",
     "start": "npx react-scripts start"
   },
   "peerDependencies": {
