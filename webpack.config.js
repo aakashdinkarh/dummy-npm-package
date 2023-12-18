@@ -5,7 +5,10 @@ const config = {
   entry: './src/exports.ts',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'index.js'
+    filename: 'index.js',
+    library        : 'DummyLibrary', // Library name (can be imported by this name)
+		libraryTarget  : 'umd', // Universal Module Definition (UMD)
+		umdNamedDefine : true // Use a named define when exporting as UMD
   },
   module: {
     rules: [
@@ -34,6 +37,10 @@ const config = {
       }
     ]
   },
+  externals: {
+		react       : 'react', // Exclude React from the bundle (useful if it's a peer dependency)
+		'react-dom' : 'react-dom' // Exclude React DOM from the bundle (useful if it's a peer dependency)
+	},
   resolve: {
     extensions: [
       '.tsx',
