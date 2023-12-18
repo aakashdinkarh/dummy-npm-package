@@ -4,6 +4,7 @@
   "description": "Dummy Package",
   "main": "dist/index.js",
   "module": "dist/index.js",
+  "types": "dist/types/exports.d.ts",
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -14,8 +15,8 @@
     "start": "npx react-scripts start"
   },
   "peerDependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "^17.0.0 || ^18.2.0",
+    "react-dom": "^17.0.0 || ^18.2.0"
   },
   "devDependencies": {
     "webpack": "^5.89.0",

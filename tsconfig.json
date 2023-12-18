@@ -10,8 +10,10 @@
         "target": "es5",
         "allowJs": true,
         "jsx": "react",
+        "declaration": true,
+        "declarationDir" : "./dist/types",
     },
     "include": [
-        "./src/**/*"
+        "./src/components/*", "./src/exports.ts", "./src/global.d.ts"
     ]
 }
