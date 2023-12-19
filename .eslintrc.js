@@ -27,6 +27,7 @@ module.exports = {
 		sourceType: 'module'
 	},
 	plugins: ['@typescript-eslint', 'react'],
+	ignorePatterns : ['dist/**/*', 'sample.stylelintrc.js'],
 	rules: {
 		indent: ['warn', 'tab'],
 		quotes: ['warn', 'single'],
