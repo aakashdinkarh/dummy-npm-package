@@ -2,14 +2,14 @@
 import * as React from 'react';
 import { SegmentedTabs } from './components/SegmentedTabs';
 interface IApp {
-  name: string
+	name: string
 }
 
 function App({ name }: IApp) {
 	return (
 		<>
 			<h1>
-        Hello {name}
+				Hello {name}
 			</h1>
 			<SegmentedTabs defaultActiveTab="tab1">
 				<SegmentedTabs.Tab name="tab1" title="Tab 1">Tab 1</SegmentedTabs.Tab>

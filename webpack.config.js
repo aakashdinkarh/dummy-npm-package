@@ -1,13 +1,10 @@
-/* eslint-disable @typescript-eslint/no-var-requires */
-/* eslint-disable no-undef */
-
 const path = require('path');
 
 const config = {
-	entry: './src/exports.ts',
-	output: {
-		path: path.resolve(__dirname, 'dist'),
-		filename: 'index.js',
+	entry  : './src/exports.ts',
+	output : {
+		path           : path.resolve(__dirname, 'dist'),
+		filename       : 'index.js',
 		library        : 'DummyLibrary', // Library name (can be imported by this name)
 		libraryTarget  : 'umd', // Universal Module Definition (UMD)
 		umdNamedDefine : true // Use a named define when exporting as UMD
@@ -15,27 +12,27 @@ const config = {
 	module: {
 		rules: [
 			{
-				test: /\.(js|jsx)$/,
-				use: 'babel-loader',
-				exclude: /node_modules/
+				test    : /\.(js|jsx)$/,
+				use     : 'babel-loader',
+				exclude : /node_modules/
 			},
 			{
-				test: /\.css$/,
-				use: [
+				test : /\.css$/,
+				use  : [
 					'style-loader',
 					{
-						loader: 'css-loader',
-						options: {
-							importLoaders: 1,
-							modules: true
+						loader  : 'css-loader',
+						options : {
+							importLoaders : 1,
+							modules       : true
 						}
 					}
 				]
 			},
 			{
-				test: /\.ts(x)?$/,
-				loader: 'ts-loader',
-				exclude: /node_modules/
+				test    : /\.ts(x)?$/,
+				loader  : 'ts-loader',
+				exclude : /node_modules/
 			}
 		]
 	},

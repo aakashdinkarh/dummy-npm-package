@@ -7,6 +7,22 @@ const path = require('path');
 const directoryPath = path.join(__dirname, '..', 'dist'); // Go up one level to the parent directory then enter 'dist'
 const fileToKeep = 'index.html'; // Replace with the filename you want to keep
 
+function deleteFolderRecursive (folderPath) {
+	if (fs.existsSync(folderPath)) {
+		fs.readdirSync(folderPath).forEach((file) => {
+			const curPath = path.join(folderPath, file);
+			if (fs.lstatSync(curPath).isDirectory()) {
+				deleteFolderRecursive(curPath);
+			} else {
+				fs.unlinkSync(curPath);
+				console.log(`Deleted file: ${curPath}`);
+			}
+		});
+		fs.rmdirSync(folderPath);
+		console.log(`Deleted folder: ${folderPath}`);
+	}
+}
+
 fs.readdir(directoryPath, (err, files) => {
 	if (err) {
 		console.error('Error reading directory:', err);
@@ -25,19 +41,3 @@ fs.readdir(directoryPath, (err, files) => {
 		}
 	});
 });
-
-function deleteFolderRecursive (folderPath) {
-	if (fs.existsSync(folderPath)) {
-		fs.readdirSync(folderPath).forEach((file) => {
-			const curPath = path.join(folderPath, file);
-			if (fs.lstatSync(curPath).isDirectory()) {
-				deleteFolderRecursive(curPath);
-			} else {
-				fs.unlinkSync(curPath);
-				console.log(`Deleted file: ${curPath}`);
-			}
-		});
-		fs.rmdirSync(folderPath);
-		console.log(`Deleted folder: ${folderPath}`);
-	}
-}

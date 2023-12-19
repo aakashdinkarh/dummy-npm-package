@@ -1,20 +1,29 @@
+const overrides = require('./eslintConfigs');
+
 module.exports = {
 	env: {
-		browser: true,
-		es2021: true
+		browser : true,
+		es2021  : true
 	},
-	extends: [
+	rules: {
+		...overrides.base,
+		...overrides.react,
+		...overrides.typescript
+	},
+	ignorePatterns : ['dist/**/*'],
+	extends        : [
 		'eslint:recommended',
 		'plugin:@typescript-eslint/recommended',
 		'plugin:react/recommended'
 	],
 	overrides: [
 		{
+			// add files which will run in node environment
 			env: {
 				node: true
 			},
-			files: ['.eslintrc.js', '.eslintrc.cjs'],
-			parserOptions: {
+			files         : ['.eslintrc.js', 'webpack.config.js', './eslintConfigs/*'],
+			parserOptions : {
 				sourceType: 'script'
 			}
 		}
@@ -29,12 +38,6 @@ module.exports = {
 			version: 'detect',
 		},
 	},
-	plugins        : ['@typescript-eslint', 'react'],
-	ignorePatterns : ['dist/**/*', 'sample.stylelintrc.js'],
-	rules: {
-		indent: ['warn', 'tab'],
-		quotes: ['warn', 'single'],
-		semi: ['warn', 'always'],
-		'@typescript-eslint/no-explicit-any': ['off']
-	}
+	plugins: ['@typescript-eslint', 'react'],
+
 };

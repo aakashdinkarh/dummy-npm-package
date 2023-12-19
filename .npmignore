@@ -3,9 +3,9 @@ webpack.config.js
 .gitignore
 .babelrc
 tsconfig.json
-# scripts/
+eslintConfigs/
+scripts/
 src/
 !dist/
-# configs/
 # sample.eslintrc.js
 # sample.stylelintrc.js
