@@ -12,7 +12,9 @@
     "clean": "node scripts/clean-dist.js",
     "build-dev": "npm run clean && webpack --mode development",
     "build-prod": "npm run clean && webpack --mode production",
-    "start": "npx react-scripts start"
+    "start": "npx react-scripts start",
+    "eslint": "eslint \"**/*.{js,jsx,ts,tsx}\"",
+    "eslint_file": "eslint"
   },
   "peerDependencies": {
     "react": "^17.0.0 || ^18.2.0",
