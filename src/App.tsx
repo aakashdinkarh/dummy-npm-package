@@ -1,5 +1,5 @@
-
 import * as React from 'react';
+
 import { SegmentedTabs } from './components/SegmentedTabs';
 interface IApp {
 	name: string

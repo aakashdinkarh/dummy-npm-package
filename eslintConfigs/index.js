@@ -29,17 +29,17 @@ const base = {
 	'import/prefer-default-export'      : 'off',
 	'react/jsx-indent-props'            : [2, 4],
 	'import/no-unresolved'              : 'off',
-	// 'import/order'                      : [
-	// 	'error',
-	// 	{
-	// 		groups             : ['builtin', 'external', 'parent', 'sibling', 'index'],
-	// 		'newlines-between' : 'always',
-	// 		alphabetize        : {
-	// 			order           : 'asc',
-	// 			caseInsensitive : true,
-	// 		},
-	// 	},
-	// ],
+	'import/order'                      : [
+		'error',
+		{
+			groups             : ['builtin', 'external', 'parent', 'sibling', 'index'],
+			'newlines-between' : 'always',
+			alphabetize        : {
+				order           : 'asc',
+				caseInsensitive : true,
+			},
+		},
+	],
 };
 
 const typescript = {
