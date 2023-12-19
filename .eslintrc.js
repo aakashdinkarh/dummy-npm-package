@@ -38,6 +38,5 @@ module.exports = {
 			version: 'detect',
 		},
 	},
-	plugins: ['@typescript-eslint', 'react', 'import'],
-
+	plugins: ['@typescript-eslint', 'import'],
 };
