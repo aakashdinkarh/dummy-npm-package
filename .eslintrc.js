@@ -13,20 +13,23 @@ module.exports = {
 			env: {
 				node: true
 			},
-			files: [
-				'.eslintrc.{js,cjs}'
-			],
+			files: ['.eslintrc.js', '.eslintrc.cjs'],
 			parserOptions: {
 				sourceType: 'script'
 			}
 		}
 	],
-	parser: '@typescript-eslint/parser',
-	parserOptions: {
-		ecmaVersion: 'latest',
-		sourceType: 'module'
+	parser        : '@typescript-eslint/parser', // Specify the parser for TypeScript files
+	parserOptions : {
+		ecmaVersion : 'latest',
+		sourceType  : 'module'
 	},
-	plugins: ['@typescript-eslint', 'react'],
+	settings: {
+		react: {
+			version: 'detect',
+		},
+	},
+	plugins        : ['@typescript-eslint', 'react'],
 	ignorePatterns : ['dist/**/*', 'sample.stylelintrc.js'],
 	rules: {
 		indent: ['warn', 'tab'],

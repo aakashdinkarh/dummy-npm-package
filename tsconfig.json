@@ -14,6 +14,8 @@
         "declarationDir" : "./dist/types",
     },
     "include": [
-        "./src/components/*", "./src/exports.ts", "./src/global.d.ts"
+        "./src/components/*",
+        "./src/exports.ts",
+        "./src/global.d.ts",
     ]
 }
