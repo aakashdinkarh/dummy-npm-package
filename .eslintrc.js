@@ -35,6 +35,6 @@ module.exports = {
 		indent: ['warn', 'tab'],
 		quotes: ['warn', 'single'],
 		semi: ['warn', 'always'],
-		'@typescript-eslint/no-explicit-any': ['warn']
+		'@typescript-eslint/no-explicit-any': ['off']
 	}
 };

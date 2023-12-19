@@ -1,53 +1,55 @@
-const webpack = require('webpack');
+/* eslint-disable @typescript-eslint/no-var-requires */
+/* eslint-disable no-undef */
+
 const path = require('path');
 
 const config = {
-  entry: './src/exports.ts',
-  output: {
-    path: path.resolve(__dirname, 'dist'),
-    filename: 'index.js',
-    library        : 'DummyLibrary', // Library name (can be imported by this name)
+	entry: './src/exports.ts',
+	output: {
+		path: path.resolve(__dirname, 'dist'),
+		filename: 'index.js',
+		library        : 'DummyLibrary', // Library name (can be imported by this name)
 		libraryTarget  : 'umd', // Universal Module Definition (UMD)
 		umdNamedDefine : true // Use a named define when exporting as UMD
-  },
-  module: {
-    rules: [
-      {
-        test: /\.(js|jsx)$/,
-        use: 'babel-loader',
-        exclude: /node_modules/
-      },
-      {
-        test: /\.css$/,
-        use: [
-          'style-loader',
-          {
-            loader: 'css-loader',
-            options: {
-              importLoaders: 1,
-              modules: true
-            }
-          }
-        ]
-      },
-      {
-        test: /\.ts(x)?$/,
-        loader: 'ts-loader',
-        exclude: /node_modules/
-      }
-    ]
-  },
-  externals: {
+	},
+	module: {
+		rules: [
+			{
+				test: /\.(js|jsx)$/,
+				use: 'babel-loader',
+				exclude: /node_modules/
+			},
+			{
+				test: /\.css$/,
+				use: [
+					'style-loader',
+					{
+						loader: 'css-loader',
+						options: {
+							importLoaders: 1,
+							modules: true
+						}
+					}
+				]
+			},
+			{
+				test: /\.ts(x)?$/,
+				loader: 'ts-loader',
+				exclude: /node_modules/
+			}
+		]
+	},
+	externals: {
 		react       : 'react', // Exclude React from the bundle (useful if it's a peer dependency)
 		'react-dom' : 'react-dom' // Exclude React DOM from the bundle (useful if it's a peer dependency)
 	},
-  resolve: {
-    extensions: [
-      '.tsx',
-      '.ts',
-      '.js'
-    ]
-  }
+	resolve: {
+		extensions: [
+			'.tsx',
+			'.ts',
+			'.js'
+		]
+	}
 };
 
 module.exports = config;
