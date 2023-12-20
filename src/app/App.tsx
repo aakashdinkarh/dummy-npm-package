@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-import { SegmentedTabs } from './components/SegmentedTabs';
+import { SegmentedTabs } from '../exports';
 interface IApp {
 	name: string;
 }
