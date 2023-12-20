@@ -14,8 +14,10 @@
         "declarationDir" : "./dist/types",
     },
     "include": [
-        "./src/**/*",
-        "!./app/*",
-        "!./src/index.tsx"
+        "./src/**/*"
+    ],
+    "exclude": [
+        "./src/app/*",
+        "./src/index.tsx"
     ]
 }
