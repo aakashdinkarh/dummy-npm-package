@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 interface OptionsProps {
 	closeAfter: number;
-	placement: string;
+	placement?: 'top' | 'right' | 'bottom' | 'left' | 'top_left' | 'top_right' | 'bottom_right' | 'bottom_left';
 	toastContainer: {
 		toastContainerClass?: string;
 	};

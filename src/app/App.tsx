@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-import { SegmentedTabs } from '../exports';
+import { SegmentedTabs, toast } from '../exports';
 interface IApp {
 	name: string;
 }
@@ -14,6 +14,8 @@ function App({ name }: IApp) {
 				<SegmentedTabs.Tab name="tab2" title="Tab 2">Tab 2</SegmentedTabs.Tab>
 				<SegmentedTabs.Tab name="tab3" title="Tab 8">Tab 99</SegmentedTabs.Tab>
 			</SegmentedTabs>
+
+			<button type='button' onClick={() => toast('This is a toast')} >Toast</button>
 		</>
 	);
 }
