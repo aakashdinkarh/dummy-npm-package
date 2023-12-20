@@ -22,7 +22,7 @@ module.exports = {
 			env: {
 				node: true
 			},
-			files         : ['.eslintrc.js', 'webpack.config.js', './eslintConfigs/*'],
+			files         : ['.eslintrc.js', 'webpack.config.js', './eslintConfigs/*', 'scripts/*'],
 			parserOptions : {
 				sourceType: 'script'
 			}
