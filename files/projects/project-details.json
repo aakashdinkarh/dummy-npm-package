@@ -74,7 +74,7 @@
 	"all_projects": [
 		{
 			"title": "Rail API App React",
-			"description": "This project uses React, Styled Components, React Router, Redux, API handling, Hooks, and more to show search results for the user.",
+			"description": "This project uses React, Styled Components, React Router, Redux, API handling, Hooks , Persist state in SessionStorage, Deploy to GitHub Pages etc... to show results for the particular search made by the user.",
 			"links": [
 				{
 					"title": "View on GitHub",
@@ -88,7 +88,7 @@
 		},
 		{
 			"title": "Case Utils",
-			"description": "A utility library designed to provide various case manipulation functions, such as converting strings to different cases.",
+			"description": "A utility library designed to provide various case manipulation functions, such as converting strings to different cases (camelCase, snake_case, etc.), making it easier for developers to handle string formatting in their applications.",
 			"links": [
 				{
 					"title": "View on GitHub",
@@ -102,7 +102,7 @@
 		},
 		{
 			"title": "Block Game",
-			"description": "A simple web-based game that challenges players to navigate a block through various obstacles.",
+			"description": "A simple web-based game that challenges players to navigate a block through various obstacles. The game focuses on improving hand-eye coordination and reaction time.",
 			"links": [
 				{
 					"title": "View on GitHub",
@@ -116,7 +116,7 @@
 		},
 		{
 			"title": "Lawyer Project",
-			"description": "A web application aimed at providing legal services and resources tailored for legal professionals.",
+			"description": "A web application aimed at providing legal services and resources. It may include features like document management, client communication, and case tracking, tailored for legal professionals.",
 			"links": [
 				{
 					"title": "View on GitHub",
@@ -130,7 +130,7 @@
 		},
 		{
 			"title": "LookLike Cosmetic Store",
-			"description": "An e-commerce platform that showcases cosmetic products, allowing users to browse, search, and purchase items.",
+			"description": "An e-commerce platform that showcases cosmetic products. Users can browse, search, and purchase items, with features like product reviews and ratings to enhance the shopping experience.",
 			"links": [
 				{
 					"title": "View on GitHub",
@@ -144,7 +144,7 @@
 		},
 		{
 			"title": "Booker - Textbook Renter",
-			"description": "A platform that allows students to rent textbooks at affordable prices, making educational resources more accessible.",
+			"description": "A platform that allows students to rent textbooks at affordable prices. It connects students with available textbooks, facilitating easy access to educational resources without the high costs of purchasing.",
 			"links": [
 				{
 					"title": "View on GitHub",
@@ -158,7 +158,7 @@
 		},
 		{
 			"title": "Wedding Site",
-			"description": "A customizable wedding website template to share event details, guest lists, and gift registries.",
+			"description": "A personal wedding website template that couples can customize to share their wedding details, including event schedules, guest lists, and gift registries, making it easier for guests to stay informed.",
 			"links": [
 				{
 					"title": "View on GitHub",
@@ -172,7 +172,7 @@
 		},
 		{
 			"title": "Portfolio V1",
-			"description": "An earlier version (v1) of my portfolio showcasing my work and skills in a responsive format.",
+			"description": "An earlier version (v1) of my portfolio website. The site showcases my work, skills, and projects in a visually appealing and responsive format.",
 			"links": [
 				{
 					"title": "View on GitHub",
@@ -186,7 +186,7 @@
 		},
 		{
 			"title": "Portfolio V0",
-			"description": "The initial version (v0) of my portfolio showcasing my work and skills in a responsive format.",
+			"description": "The initial version (v0) of my portfolio website. The site showcases my work, skills, and projects in a visually appealing and responsive format.",
 			"links": [
 				{
 					"title": "View on GitHub",
@@ -200,7 +200,7 @@
 		},
 		{
 			"title": "Panda Image",
-			"description": "A CSS-only recreation of a panda image, showcasing CSS design skills.",
+			"description": "A simple image gallery or viewer application that allows users to upload, view, and manage images. It may include features like image editing and sharing options.",
 			"links": [
 				{
 					"title": "View on GitHub",
@@ -214,7 +214,7 @@
 		},
 		{
 			"title": "Calculator",
-			"description": "A web-based calculator application for basic arithmetic operations.",
+			"description": "A web-based calculator application that performs basic arithmetic operations. It provides a user-friendly interface for quick calculations, suitable for everyday use.",
 			"links": [
 				{
 					"title": "View on GitHub",
@@ -228,7 +228,7 @@
 		},
 		{
 			"title": "Todo React App",
-			"description": "A task management app built with React for creating, editing, and managing daily tasks.",
+			"description": "A task management application built with React that allows users to create, edit, and delete tasks. It helps users organize their daily activities and improve productivity.",
 			"links": [
 				{
 					"title": "View on GitHub",
@@ -238,7 +238,7 @@
 		},
 		{
 			"title": "Memory Game",
-			"description": "A classic memory card game where players match pairs of cards, enhancing memory skills.",
+			"description": "A classic memory card game where players flip cards to find matching pairs. It enhances memory skills and provides an engaging way to pass the time.",
 			"links": [
 				{
 					"title": "View on GitHub",
@@ -252,7 +252,7 @@
 		},
 		{
 			"title": "Modal Image",
-			"description": "A web component to display images in a modal format, enhancing user experience by providing seamless viewing.",
+			"description": "A web component that displays images in a modal format, allowing users to view images in a larger size without navigating away from the current page. It enhances user experience by providing a seamless viewing option.",
 			"links": [
 				{
 					"title": "View on GitHub",
