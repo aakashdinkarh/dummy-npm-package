@@ -1,0 +1,268 @@
+{
+	"highlight_projects": [
+		{
+			"heading": "My Portfolio",
+			"description": "A comprehensive showcase of my work, skills, and projects, designed to highlight my capabilities and contributions in web development.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/portfolio"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkar.in/"
+				}
+			]
+		},
+		{
+			"heading": "Bounce and Collect Game",
+			"description": "A fun game where you collect points while mastering gravity and elasticity.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/bounce-and-collect-game"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkar.in/bounce-and-collect-game/"
+				}
+			]
+		},
+		{
+			"heading": "Music Player Project",
+			"description": "A web-based music player that allows you to play and manage your music library.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/music-player-project"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkarh.github.io/music-player-project/"
+				}
+			]
+		},
+		{
+			"heading": "The Movie DB",
+			"description": "A web application to browse and search movies using a movie database API.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/the-movie-db"
+				},
+				{
+					"title": "Explore Now",
+					"href": "https://aakashdinkarh.github.io/the-movie-db/"
+				}
+			]
+		},
+		{
+			"heading": "Window Props Plus",
+			"description": "A Chrome extension to add custom properties to the global window object.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/window-props-plus"
+				},
+				{
+					"title": "Readme",
+					"href": "https://github.com/aakashdinkarh/window-props-plus/blob/main/README.md"
+				}
+			]
+		}
+	],
+	"all_projects": [
+		{
+			"heading": "Rail API App React",
+			"description": "This project uses React, Styled Components, React Router, Redux, API handling, Hooks, and more to show search results for the user.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/rail_api_app/"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkarh.github.io/rail_api_app/"
+				}
+			]
+		},
+		{
+			"heading": "Case Utils",
+			"description": "A utility library designed to provide various case manipulation functions, such as converting strings to different cases.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/case-utils/"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkar.in/case-utils/"
+				}
+			]
+		},
+		{
+			"heading": "Block Game",
+			"description": "A simple web-based game that challenges players to navigate a block through various obstacles.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/block-game/"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkar.in/block-game/"
+				}
+			]
+		},
+		{
+			"heading": "Lawyer Project",
+			"description": "A web application aimed at providing legal services and resources tailored for legal professionals.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/LawyerProject/"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkarh.github.io/LawyerProject/"
+				}
+			]
+		},
+		{
+			"heading": "LookLike Cosmetic Store",
+			"description": "An e-commerce platform that showcases cosmetic products, allowing users to browse, search, and purchase items.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/Looklike_Cosmetic_Store"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkarh.github.io/Looklike_Cosmetic_Store/"
+				}
+			]
+		},
+		{
+			"heading": "Booker - Textbook Renter",
+			"description": "A platform that allows students to rent textbooks at affordable prices, making educational resources more accessible.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/Booker---Textbook-Renter"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkarh.github.io/Booker---Textbook-Renter/"
+				}
+			]
+		},
+		{
+			"heading": "Wedding Site",
+			"description": "A customizable wedding website template to share event details, guest lists, and gift registries.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/wedding-site"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkarh.github.io/wedding-site/"
+				}
+			]
+		},
+		{
+			"heading": "Portfolio V1",
+			"description": "An earlier version (v1) of my portfolio showcasing my work and skills in a responsive format.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/portfolio-v1"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkar.in/portfolio-v1/"
+				}
+			]
+		},
+		{
+			"heading": "Portfolio V0",
+			"description": "The initial version (v0) of my portfolio showcasing my work and skills in a responsive format.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/portfolio-v0"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkar.in/portfolio-v0/"
+				}
+			]
+		},
+		{
+			"heading": "Panda Image",
+			"description": "A CSS-only recreation of a panda image, showcasing CSS design skills.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/panda-img"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkar.in/panda-img/"
+				}
+			]
+		},
+		{
+			"heading": "Calculator",
+			"description": "A web-based calculator application for basic arithmetic operations.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/calculator"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkar.in/calculator/"
+				}
+			]
+		},
+		{
+			"heading": "Todo React App",
+			"description": "A task management app built with React for creating, editing, and managing daily tasks.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/todo-react-app"
+				}
+			]
+		},
+		{
+			"heading": "Memory Game",
+			"description": "A classic memory card game where players match pairs of cards, enhancing memory skills.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/MemoryGame"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkar.in/MemoryGame/"
+				}
+			]
+		},
+		{
+			"heading": "Modal Image",
+			"description": "A web component to display images in a modal format, enhancing user experience by providing seamless viewing.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/Image-modal"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkar.in/Image-modal/"
+				}
+			]
+		}
+	]
+}
