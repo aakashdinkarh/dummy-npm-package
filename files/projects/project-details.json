@@ -1,7 +1,7 @@
 {
 	"highlight_projects": [
 		{
-			"heading": "My Portfolio",
+			"title": "My Portfolio",
 			"description": "A comprehensive showcase of my work, skills, and projects, designed to highlight my capabilities and contributions in web development.",
 			"links": [
 				{
@@ -15,7 +15,7 @@
 			]
 		},
 		{
-			"heading": "Bounce and Collect Game",
+			"title": "Bounce and Collect Game",
 			"description": "A fun game where you collect points while mastering gravity and elasticity.",
 			"links": [
 				{
@@ -29,7 +29,7 @@
 			]
 		},
 		{
-			"heading": "Music Player Project",
+			"title": "Music Player Project",
 			"description": "A web-based music player that allows you to play and manage your music library.",
 			"links": [
 				{
@@ -43,7 +43,7 @@
 			]
 		},
 		{
-			"heading": "The Movie DB",
+			"title": "The Movie DB",
 			"description": "A web application to browse and search movies using a movie database API.",
 			"links": [
 				{
@@ -57,7 +57,7 @@
 			]
 		},
 		{
-			"heading": "Window Props Plus",
+			"title": "Window Props Plus",
 			"description": "A Chrome extension to add custom properties to the global window object.",
 			"links": [
 				{
@@ -73,7 +73,7 @@
 	],
 	"all_projects": [
 		{
-			"heading": "Rail API App React",
+			"title": "Rail API App React",
 			"description": "This project uses React, Styled Components, React Router, Redux, API handling, Hooks, and more to show search results for the user.",
 			"links": [
 				{
@@ -87,7 +87,7 @@
 			]
 		},
 		{
-			"heading": "Case Utils",
+			"title": "Case Utils",
 			"description": "A utility library designed to provide various case manipulation functions, such as converting strings to different cases.",
 			"links": [
 				{
@@ -101,7 +101,7 @@
 			]
 		},
 		{
-			"heading": "Block Game",
+			"title": "Block Game",
 			"description": "A simple web-based game that challenges players to navigate a block through various obstacles.",
 			"links": [
 				{
@@ -115,7 +115,7 @@
 			]
 		},
 		{
-			"heading": "Lawyer Project",
+			"title": "Lawyer Project",
 			"description": "A web application aimed at providing legal services and resources tailored for legal professionals.",
 			"links": [
 				{
@@ -129,7 +129,7 @@
 			]
 		},
 		{
-			"heading": "LookLike Cosmetic Store",
+			"title": "LookLike Cosmetic Store",
 			"description": "An e-commerce platform that showcases cosmetic products, allowing users to browse, search, and purchase items.",
 			"links": [
 				{
@@ -143,7 +143,7 @@
 			]
 		},
 		{
-			"heading": "Booker - Textbook Renter",
+			"title": "Booker - Textbook Renter",
 			"description": "A platform that allows students to rent textbooks at affordable prices, making educational resources more accessible.",
 			"links": [
 				{
@@ -157,7 +157,7 @@
 			]
 		},
 		{
-			"heading": "Wedding Site",
+			"title": "Wedding Site",
 			"description": "A customizable wedding website template to share event details, guest lists, and gift registries.",
 			"links": [
 				{
@@ -171,7 +171,7 @@
 			]
 		},
 		{
-			"heading": "Portfolio V1",
+			"title": "Portfolio V1",
 			"description": "An earlier version (v1) of my portfolio showcasing my work and skills in a responsive format.",
 			"links": [
 				{
@@ -185,7 +185,7 @@
 			]
 		},
 		{
-			"heading": "Portfolio V0",
+			"title": "Portfolio V0",
 			"description": "The initial version (v0) of my portfolio showcasing my work and skills in a responsive format.",
 			"links": [
 				{
@@ -199,7 +199,7 @@
 			]
 		},
 		{
-			"heading": "Panda Image",
+			"title": "Panda Image",
 			"description": "A CSS-only recreation of a panda image, showcasing CSS design skills.",
 			"links": [
 				{
@@ -213,7 +213,7 @@
 			]
 		},
 		{
-			"heading": "Calculator",
+			"title": "Calculator",
 			"description": "A web-based calculator application for basic arithmetic operations.",
 			"links": [
 				{
@@ -227,7 +227,7 @@
 			]
 		},
 		{
-			"heading": "Todo React App",
+			"title": "Todo React App",
 			"description": "A task management app built with React for creating, editing, and managing daily tasks.",
 			"links": [
 				{
@@ -237,7 +237,7 @@
 			]
 		},
 		{
-			"heading": "Memory Game",
+			"title": "Memory Game",
 			"description": "A classic memory card game where players match pairs of cards, enhancing memory skills.",
 			"links": [
 				{
@@ -251,7 +251,7 @@
 			]
 		},
 		{
-			"heading": "Modal Image",
+			"title": "Modal Image",
 			"description": "A web component to display images in a modal format, enhancing user experience by providing seamless viewing.",
 			"links": [
 				{
