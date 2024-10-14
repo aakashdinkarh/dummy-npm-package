@@ -12,7 +12,27 @@
 					"title": "Try it Now",
 					"href": "https://aakashdinkar.in/"
 				}
-			]
+			],
+			"tags": ["HTML", "CSS", "JavaScript", "Portfolio"]
+		},
+		{
+			"title": "Smart Components Dinkar",
+			"description": "This project contains a collection of smart components designed to ease your web application development by providing reusable and efficient solutions for common UI patterns. You can see the tutorials and components usage from the link provided below.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/smart-components-dinkar"
+				},
+				{
+					"title": "NPM Package",
+					"href": "https://www.npmjs.com/package/smart-components-dinkar"
+				},
+				{
+					"title": "Codebook",
+					"href": "https://devdinkar-codebook.vercel.app/"
+				}
+			],
+			"tags": ["HTML", "CSS", "JavaScript", "React", "Library/Package"]
 		},
 		{
 			"title": "Bounce and Collect Game",
@@ -26,21 +46,8 @@
 					"title": "Try it Now",
 					"href": "https://aakashdinkar.in/bounce-and-collect-game/"
 				}
-			]
-		},
-		{
-			"title": "Music Player Project",
-			"description": "A web-based music player that allows you to play and manage your music library.",
-			"links": [
-				{
-					"title": "View on GitHub",
-					"href": "https://github.com/aakashdinkarh/music-player-project"
-				},
-				{
-					"title": "Try it Now",
-					"href": "https://aakashdinkarh.github.io/music-player-project/"
-				}
-			]
+			],
+			"tags": ["HTML", "CSS", "JavaScript", "Game"]
 		},
 		{
 			"title": "The Movie DB",
@@ -54,7 +61,8 @@
 					"title": "Explore Now",
 					"href": "https://aakashdinkarh.github.io/the-movie-db/"
 				}
-			]
+			],
+			"tags": ["HTML", "CSS", "JavaScript", "React"]
 		},
 		{
 			"title": "Window Props Plus",
@@ -68,37 +76,40 @@
 					"title": "Readme",
 					"href": "https://github.com/aakashdinkarh/window-props-plus/blob/main/README.md"
 				}
-			]
+			],
+			"tags": ["HTML", "CSS", "JavaScript", "Extension"]
+		},
+		{
+			"title": "Music Player Project",
+			"description": "A web-based music player that allows you to play and manage your music library.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/music-player-project"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkarh.github.io/music-player-project/"
+				}
+			],
+			"tags": ["HTML", "CSS", "JavaScript", "React"]
 		}
 	],
 	"all_projects": [
 		{
-			"title": "Rail API App React",
-			"description": "This project uses React, Styled Components, React Router, Redux, API handling, Hooks , Persist state in SessionStorage, Deploy to GitHub Pages etc... to show results for the particular search made by the user.",
+			"title": "Tic Tac Toe Game",
+			"description": "A web component that displays images in a modal format, allowing users to view images in a larger size without navigating away from the current page. It enhances user experience by providing a seamless viewing option.",
 			"links": [
 				{
 					"title": "View on GitHub",
-					"href": "https://github.com/aakashdinkarh/rail_api_app/"
+					"href": "https://github.com/aakashdinkarh/Tic-Tac-Toe-Game"
 				},
 				{
 					"title": "Try it Now",
-					"href": "https://aakashdinkarh.github.io/rail_api_app/"
+					"href": "https://aakashdinkar.in/Tic-Tac-Toe-Game/"
 				}
-			]
-		},
-		{
-			"title": "Case Utils",
-			"description": "A utility library designed to provide various case manipulation functions, such as converting strings to different cases (camelCase, snake_case, etc.), making it easier for developers to handle string formatting in their applications.",
-			"links": [
-				{
-					"title": "View on GitHub",
-					"href": "https://github.com/aakashdinkarh/case-utils/"
-				},
-				{
-					"title": "Try it Now",
-					"href": "https://aakashdinkar.in/case-utils/"
-				}
-			]
+			],
+			"tags": ["HTML", "CSS", "JavaScript", "React", "Game"]
 		},
 		{
 			"title": "Block Game",
@@ -112,129 +123,8 @@
 					"title": "Try it Now",
 					"href": "https://aakashdinkar.in/block-game/"
 				}
-			]
-		},
-		{
-			"title": "Lawyer Project",
-			"description": "A web application aimed at providing legal services and resources. It may include features like document management, client communication, and case tracking, tailored for legal professionals.",
-			"links": [
-				{
-					"title": "View on GitHub",
-					"href": "https://github.com/aakashdinkarh/LawyerProject/"
-				},
-				{
-					"title": "Try it Now",
-					"href": "https://aakashdinkarh.github.io/LawyerProject/"
-				}
-			]
-		},
-		{
-			"title": "LookLike Cosmetic Store",
-			"description": "An e-commerce platform that showcases cosmetic products. Users can browse, search, and purchase items, with features like product reviews and ratings to enhance the shopping experience.",
-			"links": [
-				{
-					"title": "View on GitHub",
-					"href": "https://github.com/aakashdinkarh/Looklike_Cosmetic_Store"
-				},
-				{
-					"title": "Try it Now",
-					"href": "https://aakashdinkarh.github.io/Looklike_Cosmetic_Store/"
-				}
-			]
-		},
-		{
-			"title": "Booker - Textbook Renter",
-			"description": "A platform that allows students to rent textbooks at affordable prices. It connects students with available textbooks, facilitating easy access to educational resources without the high costs of purchasing.",
-			"links": [
-				{
-					"title": "View on GitHub",
-					"href": "https://github.com/aakashdinkarh/Booker---Textbook-Renter"
-				},
-				{
-					"title": "Try it Now",
-					"href": "https://aakashdinkarh.github.io/Booker---Textbook-Renter/"
-				}
-			]
-		},
-		{
-			"title": "Wedding Site",
-			"description": "A personal wedding website template that couples can customize to share their wedding details, including event schedules, guest lists, and gift registries, making it easier for guests to stay informed.",
-			"links": [
-				{
-					"title": "View on GitHub",
-					"href": "https://github.com/aakashdinkarh/wedding-site"
-				},
-				{
-					"title": "Try it Now",
-					"href": "https://aakashdinkarh.github.io/wedding-site/"
-				}
-			]
-		},
-		{
-			"title": "Portfolio V1",
-			"description": "An earlier version (v1) of my portfolio website. The site showcases my work, skills, and projects in a visually appealing and responsive format.",
-			"links": [
-				{
-					"title": "View on GitHub",
-					"href": "https://github.com/aakashdinkarh/portfolio-v1"
-				},
-				{
-					"title": "Try it Now",
-					"href": "https://aakashdinkar.in/portfolio-v1/"
-				}
-			]
-		},
-		{
-			"title": "Portfolio V0",
-			"description": "The initial version (v0) of my portfolio website. The site showcases my work, skills, and projects in a visually appealing and responsive format.",
-			"links": [
-				{
-					"title": "View on GitHub",
-					"href": "https://github.com/aakashdinkarh/portfolio-v0"
-				},
-				{
-					"title": "Try it Now",
-					"href": "https://aakashdinkar.in/portfolio-v0/"
-				}
-			]
-		},
-		{
-			"title": "Panda Image",
-			"description": "A simple image gallery or viewer application that allows users to upload, view, and manage images. It may include features like image editing and sharing options.",
-			"links": [
-				{
-					"title": "View on GitHub",
-					"href": "https://github.com/aakashdinkarh/panda-img"
-				},
-				{
-					"title": "Try it Now",
-					"href": "https://aakashdinkar.in/panda-img/"
-				}
-			]
-		},
-		{
-			"title": "Calculator",
-			"description": "A web-based calculator application that performs basic arithmetic operations. It provides a user-friendly interface for quick calculations, suitable for everyday use.",
-			"links": [
-				{
-					"title": "View on GitHub",
-					"href": "https://github.com/aakashdinkarh/calculator"
-				},
-				{
-					"title": "Try it Now",
-					"href": "https://aakashdinkar.in/calculator/"
-				}
-			]
-		},
-		{
-			"title": "Todo React App",
-			"description": "A task management application built with React that allows users to create, edit, and delete tasks. It helps users organize their daily activities and improve productivity.",
-			"links": [
-				{
-					"title": "View on GitHub",
-					"href": "https://github.com/aakashdinkarh/todo-react-app"
-				}
-			]
+			],
+			"tags": ["HTML", "CSS", "JavaScript", "Game"]
 		},
 		{
 			"title": "Memory Game",
@@ -248,7 +138,173 @@
 					"title": "Try it Now",
 					"href": "https://aakashdinkar.in/MemoryGame/"
 				}
-			]
+			],
+			"tags": ["HTML", "CSS", "JavaScript", "Game"]
+		},
+		{
+			"title": "Todo React App",
+			"description": "A task management application built with React that allows users to create, edit, and delete tasks. It helps users organize their daily activities and improve productivity.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/todo-react-app"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkar.in/todo-react-app/"
+				}
+			],
+			"tags": ["HTML", "CSS", "JavaScript", "React", "Util", "Productivity"]
+		},
+		{
+			"title": "Case Utils",
+			"description": "A utility library designed to provide various case manipulation functions, such as converting strings to different cases (camelCase, snake_case, etc.), making it easier for developers to handle string formatting in their applications.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/case-utils/"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkar.in/case-utils/"
+				}
+			],
+			"tags": ["HTML", "CSS", "JavaScript", "Util", "Productivity"]
+		},
+		{
+			"title": "Rail API App React",
+			"description": "This project uses React, Styled Components, React Router, Redux, API handling, Hooks , Persist state in SessionStorage, Deploy to GitHub Pages etc... to show results for the particular search made by the user.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/rail_api_app/"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkarh.github.io/rail_api_app/"
+				}
+			],
+			"tags": ["HTML", "CSS", "JavaScript", "React"]
+		},
+		{
+			"title": "Lawyer Project",
+			"description": "A web application aimed at providing legal services and resources. It may include features like document management, client communication, and case tracking, tailored for legal professionals.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/LawyerProject/"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkarh.github.io/LawyerProject/"
+				}
+			],
+			"tags": ["HTML", "CSS", "JavaScript", "Intern Project"]
+		},
+		{
+			"title": "LookLike Cosmetic Store",
+			"description": "An e-commerce platform that showcases cosmetic products. Users can browse, search, and purchase items, with features like product reviews and ratings to enhance the shopping experience.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/Looklike_Cosmetic_Store"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkarh.github.io/Looklike_Cosmetic_Store/"
+				}
+			],
+			"tags": ["HTML", "CSS", "JavaScript", "Intern Project"]
+		},
+		{
+			"title": "Booker - Textbook Renter",
+			"description": "A platform that allows students to rent textbooks at affordable prices. It connects students with available textbooks, facilitating easy access to educational resources without the high costs of purchasing.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/Booker---Textbook-Renter"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkarh.github.io/Booker---Textbook-Renter/"
+				}
+			],
+			"tags": ["HTML", "CSS", "JavaScript", "Intern Project"]
+		},
+		{
+			"title": "Wedding Site",
+			"description": "A personal wedding website template that couples can customize to share their wedding details, including event schedules, guest lists, and gift registries, making it easier for guests to stay informed.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/wedding-site"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkarh.github.io/wedding-site/"
+				}
+			],
+			"tags": ["HTML", "CSS", "JavaScript", "Intern Project"]
+		},
+		{
+			"title": "Portfolio V1",
+			"description": "An earlier version (v1) of my portfolio website. The site showcases my work, skills, and projects in a visually appealing and responsive format.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/portfolio-v1"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkar.in/portfolio-v1/"
+				}
+			],
+			"tags": ["HTML", "CSS", "JavaScript", "Portfolio"]
+		},
+		{
+			"title": "Portfolio V0",
+			"description": "The initial version (v0) of my portfolio website. The site showcases my work, skills, and projects in a visually appealing and responsive format.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/portfolio-v0"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkar.in/portfolio-v0/"
+				}
+			],
+			"tags": ["HTML", "CSS", "JavaScript", "Portfolio"]
+		},
+		{
+			"title": "Panda Image",
+			"description": "A simple image gallery or viewer application that allows users to upload, view, and manage images. It may include features like image editing and sharing options.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/panda-img"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkar.in/panda-img/"
+				}
+			],
+			"tags": ["HTML", "CSS"]
+		},
+		{
+			"title": "Calculator",
+			"description": "A web-based calculator application that performs basic arithmetic operations. It provides a user-friendly interface for quick calculations, suitable for everyday use.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/calculator"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkar.in/calculator/"
+				}
+			],
+			"tags": ["HTML", "CSS", "JavaScript", "Util"]
 		},
 		{
 			"title": "Modal Image",
@@ -262,7 +318,40 @@
 					"title": "Try it Now",
 					"href": "https://aakashdinkar.in/Image-modal/"
 				}
-			]
+			],
+			"tags": ["HTML", "CSS", "JavaScript"]
+		},
+		{
+			"title": "Sample Checkout Form",
+			"description": "A simple, responsive checkout form built with HTML, CSS, and JavaScript. Easily capture user payment and shipping details with a clean, intuitive interface.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/checkout-form"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkarh.github.io/checkout-form/"
+				}
+			],
+			"tags": ["HTML", "CSS", "JavaScript"],
+			"hidden": true
+		},
+		{
+			"title": "Sample Login Form",
+			"description": "A simple login form built using HTML and CSS. This form is just a practice and can inspire the design and animation for login form appearance.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/Login-form"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkarh.github.io/Login-form/"
+				}
+			],
+			"tags": ["HTML", "CSS", "JavaScript"],
+			"hidden": true
 		}
 	]
 }
