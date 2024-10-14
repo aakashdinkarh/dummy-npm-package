@@ -13,7 +13,7 @@
 					"href": "https://aakashdinkar.in/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript", "Portfolio"]
+			"tags": ["Portfolio"]
 		},
 		{
 			"title": "Smart Components Dinkar",
@@ -32,7 +32,7 @@
 					"href": "https://devdinkar-codebook.vercel.app/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript", "React", "Library/Package"]
+			"tags": ["React", "Library/Package"]
 		},
 		{
 			"title": "Bounce and Collect Game",
@@ -47,7 +47,7 @@
 					"href": "https://aakashdinkar.in/bounce-and-collect-game/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript", "Game"]
+			"tags": ["Game"]
 		},
 		{
 			"title": "The Movie DB",
@@ -62,7 +62,7 @@
 					"href": "https://aakashdinkarh.github.io/the-movie-db/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript", "React"]
+			"tags": ["React"]
 		},
 		{
 			"title": "Window Props Plus",
@@ -77,7 +77,7 @@
 					"href": "https://github.com/aakashdinkarh/window-props-plus/blob/main/README.md"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript", "Extension"]
+			"tags": ["Chrome Extension", "Utility"]
 		},
 		{
 			"title": "Music Player Project",
@@ -92,7 +92,7 @@
 					"href": "https://aakashdinkarh.github.io/music-player-project/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript", "React"]
+			"tags": ["React"]
 		}
 	],
 	"all_projects": [
@@ -109,7 +109,7 @@
 					"href": "https://aakashdinkar.in/Tic-Tac-Toe-Game/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript", "React", "Game"]
+			"tags": ["React", "Game"]
 		},
 		{
 			"title": "Block Game",
@@ -124,7 +124,7 @@
 					"href": "https://aakashdinkar.in/block-game/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript", "Game"]
+			"tags": ["Game"]
 		},
 		{
 			"title": "Memory Game",
@@ -139,7 +139,7 @@
 					"href": "https://aakashdinkar.in/MemoryGame/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript", "Game"]
+			"tags": ["Game"]
 		},
 		{
 			"title": "Todo React App",
@@ -154,7 +154,7 @@
 					"href": "https://aakashdinkar.in/todo-react-app/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript", "React", "Util", "Productivity"]
+			"tags": ["React", "Productivity", "Utility"]
 		},
 		{
 			"title": "Case Utils",
@@ -169,7 +169,7 @@
 					"href": "https://aakashdinkar.in/case-utils/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript", "Util", "Productivity"]
+			"tags": ["Utility", "Productivity"]
 		},
 		{
 			"title": "Rail API App React",
@@ -184,7 +184,7 @@
 					"href": "https://aakashdinkarh.github.io/rail_api_app/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript", "React"]
+			"tags": ["React"]
 		},
 		{
 			"title": "Lawyer Project",
@@ -199,7 +199,7 @@
 					"href": "https://aakashdinkarh.github.io/LawyerProject/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript", "Intern Project"]
+			"tags": ["Intern Project"]
 		},
 		{
 			"title": "LookLike Cosmetic Store",
@@ -214,7 +214,7 @@
 					"href": "https://aakashdinkarh.github.io/Looklike_Cosmetic_Store/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript", "Intern Project"]
+			"tags": ["Intern Project"]
 		},
 		{
 			"title": "Booker - Textbook Renter",
@@ -229,7 +229,7 @@
 					"href": "https://aakashdinkarh.github.io/Booker---Textbook-Renter/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript", "Intern Project"]
+			"tags": ["Intern Project"]
 		},
 		{
 			"title": "Wedding Site",
@@ -244,7 +244,7 @@
 					"href": "https://aakashdinkarh.github.io/wedding-site/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript", "Intern Project"]
+			"tags": ["Intern Project"]
 		},
 		{
 			"title": "Portfolio V1",
@@ -259,7 +259,7 @@
 					"href": "https://aakashdinkar.in/portfolio-v1/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript", "Portfolio"]
+			"tags": ["Portfolio"]
 		},
 		{
 			"title": "Portfolio V0",
@@ -274,7 +274,7 @@
 					"href": "https://aakashdinkar.in/portfolio-v0/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript", "Portfolio"]
+			"tags": ["Portfolio"]
 		},
 		{
 			"title": "Panda Image",
@@ -289,7 +289,7 @@
 					"href": "https://aakashdinkar.in/panda-img/"
 				}
 			],
-			"tags": ["HTML", "CSS"]
+			"tags": ["CSS Creative"]
 		},
 		{
 			"title": "Calculator",
@@ -304,7 +304,7 @@
 					"href": "https://aakashdinkar.in/calculator/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript", "Util"]
+			"tags": ["Utility"]
 		},
 		{
 			"title": "Modal Image",
@@ -319,7 +319,8 @@
 					"href": "https://aakashdinkar.in/Image-modal/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript"]
+			"tags": [],
+			"hidden": true
 		},
 		{
 			"title": "Sample Checkout Form",
@@ -334,7 +335,7 @@
 					"href": "https://aakashdinkarh.github.io/checkout-form/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript"],
+			"tags": [],
 			"hidden": true
 		},
 		{
@@ -350,7 +351,7 @@
 					"href": "https://aakashdinkarh.github.io/Login-form/"
 				}
 			],
-			"tags": ["HTML", "CSS", "JavaScript"],
+			"tags": [],
 			"hidden": true
 		}
 	]
