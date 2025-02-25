@@ -35,6 +35,21 @@
 			"tags": ["React", "Library/Package"]
 		},
 		{
+			"title": "JS/TS Playground",
+			"description": "A browser-based JavaScript/TypeScript playground with real-time execution, rich console output, and offline support.",
+			"links": [
+				{
+					"title": "View on GitHub",
+					"href": "https://github.com/aakashdinkarh/js-ts-playground"
+				},
+				{
+					"title": "Try it Now",
+					"href": "https://aakashdinkar.in/js-ts-playground/"
+				}
+			],
+			"tags": ["React", "Utility", "Productivity"]
+		},
+		{
 			"title": "Bounce and Collect Game",
 			"description": "A fun game where you collect points while mastering gravity and elasticity.",
 			"links": [
